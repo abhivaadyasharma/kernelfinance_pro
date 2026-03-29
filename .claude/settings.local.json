@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(chmod +x \"/Users/abhivaadya/KernelFinance Pro/start.sh\")",
-      "Bash(python3 -c \"import py_compile; py_compile.compile\\(''kernel_finance_pro.py'', doraise=True\\); print\\(''OK''\\)\")",
-      "Bash(python3 -c \"import py_compile; py_compile.compile\\(''api_client.py'', doraise=True\\); print\\(''OK''\\)\")"
-    ]
-  }
-}
